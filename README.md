@@ -1,3 +1,3 @@
 # SSCC_Minutes
 
-This is the repository to store all the SSCC meeting minutes
+This is the repository which stores all the SSCC meeting minutes
